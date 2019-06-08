@@ -1,0 +1,28 @@
+{
+  "name": "lotr",
+  "version": "1.0.0",
+  "description": "Training met bootstrap. Theo is cool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/26278/Demo-LOTR-Bootstrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "demo",
+    "lotr"
+  ],
+  "author": "Jochem de Wit, Theo den Blanken",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/26278/Demo-LOTR-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/26278/Demo-LOTR-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
